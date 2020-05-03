@@ -2,6 +2,11 @@
 
 Unity Version: __Unity 2019.3.11f1__.
 
+- [Overview](#overview)
+- [What's New](#whats-new)
+- [Setting up your project](#setup)
+- [How to update your project to latest seed](#how-to-update-your-project-to-latest-seed)
+
 ## Overview
 
 You can use this repo to get started with [HoloLens development](https://docs.microsoft.com/windows/mixed-reality/?WT.mc_id=hololensseedproject-github-ayyonet) with [Unity 3D](https://docs.microsoft.com/windows/mixed-reality/unity-development-overview?WT.mc_id=hololensseedproject-github-ayyonet). You can download this repo and open the folder with Unity or clone the git repo by following the [setup steps](#setup) below.
