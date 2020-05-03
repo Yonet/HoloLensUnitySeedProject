@@ -1,7 +1,6 @@
-# Mixed Reality Unity Samples
+# HoloLens Unity Seed Project
 
 Unity Version: __Unity 2019.3.11f1__.
-
 
 ## Overview
 
