@@ -1,6 +1,7 @@
 # HoloLens Unity Seed Project
 
-Unity Version: __Unity 2019.3.11f1__.
+Unity Version: __Unity 2019.3.15f1__.
+Mixed Reality Toolkit Version: 2.4.0.
 
 - [Overview](#overview)
 - [What's New](#whats-new)
