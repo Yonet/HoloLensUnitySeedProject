@@ -1,7 +1,10 @@
 # HoloLens Unity Seed Project
 
-Unity Version: __Unity 2019.3.15f1__.
-Mixed Reality Toolkit Version: 2.4.0.
+ - Unity Version: __Unity 2019.3.15f1__.
+ - Mixed Reality Toolkit Version: __MRTK 2.4.0__.
+ - Mixed Reality Curriculum: https://aka.ms/MixedRealityCurriculum
+ - Introduction to Mixed Reality with Unity: https://aka.ms/UnityIntroToMixedReality
+ - Mixed Reality Curriculum Youtube Playlist: https://aka.ms/MixedRealityCurriculumVideos.
 
 - [Overview](#overview)
 - [What's New](#whats-new)
@@ -9,6 +12,8 @@ Mixed Reality Toolkit Version: 2.4.0.
 - [How to update your project to latest seed](#how-to-update-your-project-to-latest-seed)
 
 ## Overview
+
+
 
 You can use this repo to get started with [HoloLens development](https://docs.microsoft.com/windows/mixed-reality/?WT.mc_id=hololensseedproject-github-ayyonet) with [Unity 3D](https://docs.microsoft.com/windows/mixed-reality/unity-development-overview?WT.mc_id=hololensseedproject-github-ayyonet). You can download this repo and open the folder with Unity or clone the git repo by following the [setup steps](#setup) below.
 
